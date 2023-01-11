@@ -1,0 +1,11 @@
+//c program for simple if//
+#inchulde,stdio.h>
+void main()
+{
+if(0);
+{
+printf('Hello");
+printf("Hi");
+}
+}
+
